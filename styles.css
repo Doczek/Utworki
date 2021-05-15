@@ -67,7 +67,6 @@ notl:hover {
   cursor: pointer;
 }
 
-
 .hide div {
   display: none;
 }
@@ -75,3 +74,5 @@ notl:hover {
 .hide div:target {
   display: contents;
 }
+
+hr {color:003060}
