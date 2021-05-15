@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+table {
+  border-collapse: collapse;
+}
+
+b6 {
+  font-weight: 600
+}
+
+b5 {
+  font-weight: 500
+}
+
+a:link {
+  color: #0060c0;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #600060;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #004080;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #00c000;
+  text-decoration: underline;
+}
+
+utw {
+  font-weight: 700;
+  font-style: italic;
+  font-size: 22;
+}
+
+wyd {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 15;
+}
+
+body {
+  color:003060;
+  font-family:Raleway, sans-serif;
+  font-weight:400;
+  font-size:16;
+}
+
+notl {
+  color: #d00000;
+  text-decoration: none;
+}
+
+notl:hover {
+  color: #a00000;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+.hide div {
+  display: none;
+}
+
+.hide div:target {
+  display: contents;
+}
