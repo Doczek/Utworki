@@ -22,7 +22,7 @@ a:visited {
   text-decoration: none;
 }
 
-a.np:visited {
+a:visited.np {
   color: #6000c0;
   text-decoration: none;
 }
