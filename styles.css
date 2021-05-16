@@ -22,11 +22,6 @@ a:visited {
   text-decoration: none;
 }
 
-a:visited.np {
-  color: #6000c0;
-  text-decoration: none;
-}
-
 a:hover {
   color: #004080;
   text-decoration: underline;
