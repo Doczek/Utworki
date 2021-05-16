@@ -18,12 +18,7 @@ a:link {
 }
 
 a:visited {
-  color: #600060;
-  text-decoration: none;
-}
-
-a:visited.np {
-  color: #600060;
+  color: #6000c0;
   text-decoration: none;
 }
 
@@ -33,7 +28,7 @@ a:hover {
 }
 
 a:active {
-  color: #00c000;
+  color: #0050a0;
   text-decoration: underline;
 }
 
