@@ -46,10 +46,15 @@ wyd {
 
 body {
   color:003060;
+  background-color:80ff80;
   font-family:Raleway, sans-serif;
   font-weight:400;
   font-size:16;
 }
+
+body.dark {
+  color:e0f0ff;
+  background-color:004080;
 
 notl {
   color: #d00000;
