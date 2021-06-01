@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.009697"
-     inkscape:cx="342.0754"
-     inkscape:cy="366.31499"
+     inkscape:zoom="2.038976"
+     inkscape:cx="262.65737"
+     inkscape:cy="212.99938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -151,45 +151,51 @@
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
        id="rect849"
-       width="8.4666662"
+       width="8.6783333"
        height="41.29332"
        x="28.839582"
-       y="34.11293" />
+       y="34.11293"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.658761;stroke-linecap:round;stroke-linejoin:round"
        id="rect849-9"
        width="8.4666662"
        height="32.758255"
        x="98.160416"
-       y="42.647995" />
+       y="42.647995"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.915355;stroke-linecap:round;stroke-linejoin:round"
        id="rect871"
        width="8.4666662"
        height="63.247551"
        x="42.703751"
-       y="12.158701" />
+       y="12.158701"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.807833;stroke-linecap:round;stroke-linejoin:round"
        id="rect873"
        width="8.4666662"
        height="49.261414"
        x="56.514999"
-       y="26.144836" />
+       y="26.144836"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.585111;stroke-linecap:round;stroke-linejoin:round"
        id="rect875"
        width="8.4666662"
        height="25.842951"
        x="70.326248"
-       y="49.563297" />
+       y="49.563297"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.796134;stroke-linecap:round;stroke-linejoin:round"
        id="rect877"
        width="8.4666662"
        height="47.845123"
        x="84.137497"
-       y="27.561132" />
+       y="27.561132"
+       rx="2.1166666" />
     <rect
        style="font-variation-settings:'wght' 700;fill:#220099;fill-opacity:0;stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round"
        id="rect879"
