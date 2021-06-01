@@ -96,3 +96,17 @@ notl:hover {
 
 hr {color:e0f0ff}
 /* hr.light {color:003060} */
+
+button.dlm {
+  color:003060;
+  background-color:80ff80;
+  font-weight:500;
+  cursor: pointer;
+  padding: 10px 15px;
+  border: none; 
+  float: right;
+}
+/* button.dlm.light {
+  color:e0f0ff;
+  background-color:004080;
+} */
