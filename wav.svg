@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="wav.svg"
-   inkscape:export-filename="C:\Users\dokmi\OneDrive\Ważne\Utwory\wav.png"
+   inkscape:export-filename="C:\Users\dokmi\OneDrive\Strona\wav.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.038976"
+     inkscape:zoom="2.0787115"
      inkscape:cx="262.65737"
-     inkscape:cy="212.99938"
+     inkscape:cy="290.71652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -114,7 +114,9 @@
        y="-119.0625"
        rx="5.2916665"
        ry="5.2916665"
-       transform="scale(-1)" />
+       transform="scale(-1)"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        id="rect949"
@@ -139,15 +141,17 @@
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.5833332px;white-space:pre;shape-inside:url(#rect923);opacity:0.99000007;" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5167px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="41.418068"
-       y="106.41437"
-       id="text929"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.422123"
+       y="106.37919"
+       id="text929"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><tspan
          sodipodi:role="line"
          id="tspan927"
-         x="41.418068"
-         y="106.41437"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5167px;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">wav</tspan></text>
+         x="41.422123"
+         y="106.37919"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">wav</tspan></text>
     <rect
        style="font-variation-settings:'wght' 700;fill:#80c0ff;fill-opacity:1;stroke-width:0.739618;stroke-linecap:round;stroke-linejoin:round"
        id="rect849"

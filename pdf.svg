@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="pdf.svg"
-   inkscape:export-filename="C:\Users\dokmi\OneDrive\Ważne\Utwory\pdf.png"
+   inkscape:export-filename="C:\Users\dokmi\OneDrive\Strona\pdf.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="236.11044"
-     inkscape:cy="356.98612"
+     inkscape:zoom="1.4279271"
+     inkscape:cx="210.99624"
+     inkscape:cy="365.53142"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -156,15 +156,15 @@
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.5833332px;white-space:pre;shape-inside:url(#rect923);opacity:0.99000007;" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5167px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="43.967407"
-       y="106.4694"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;line-height:1.25;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.176895"
+       y="106.37911"
        id="text929"><tspan
          sodipodi:role="line"
          id="tspan927"
-         x="43.967407"
-         y="106.4694"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5167px;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">pdf</tspan></text>
+         x="45.176895"
+         y="106.37911"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5167px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583">pdf</tspan></text>
     <rect
        style="opacity:1;fill:#e8e8e8;fill-opacity:1;stroke-width:0.264583"
        id="rect849"
