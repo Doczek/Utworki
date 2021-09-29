@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="wip.svg"
-   inkscape:export-filename="C:\Users\dokmi\OneDrive\Ważne\Utwory\wip.png"
+   inkscape:export-filename="C:\Users\dokmi\OneDrive\Strona\wip.png"
    inkscape:export-xdpi="192"
    inkscape:export-ydpi="192">
   <defs
@@ -39,9 +39,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4279271"
-     inkscape:cx="286.78147"
-     inkscape:cy="279.96704"
+     inkscape:zoom="0.79003906"
+     inkscape:cx="-13.966633"
+     inkscape:cy="346.98176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,9 +71,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect953"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
-       d="M 336.75391 33.042969 L 80 101.83984 L 80 112.32031 L 345.01953 41.308594 L 336.75391 33.042969 z M 353.28711 49.576172 L 80 122.80273 L 80 143.76758 L 369.82031 66.109375 L 353.28711 49.576172 z M 386.35547 82.644531 L 80 164.73242 L 80 192.68359 L 408.40039 104.69141 L 386.35547 82.644531 z M 427.18945 127.60938 L 80 220.63672 L 80 257.90625 L 432 163.58984 L 432 150 C 432 149.82634 431.98808 149.65565 431.98633 149.48242 C 431.98656 149.46029 431.98612 149.43814 431.98633 149.41602 C 432.05509 141.96041 430.45057 134.49628 427.18945 127.60938 z M 432 200.85938 L 80 295.17773 L 80 462 C 80 489.70001 102.3 512 130 512 L 382 512 C 409.70001 512 432 489.70001 432 462 L 432 200.85938 z "
+       id="rect36-6"
+       style="fill:#ffffff;stroke-width:0.999999"
+       d="M 311.21875 9.5976562 L 80 71.552734 L 80 99.505859 L 334.23438 31.382812 L 318.40039 15.548828 C 316.15374 13.302178 313.74375 11.328008 311.21875 9.5976562 z M 356.28125 53.429688 L 80 127.45898 L 80 150.85938 L 80 153.62305 L 80 155.41211 L 378.32617 75.474609 L 356.28125 53.429688 z M 400.37109 97.521484 L 80 183.36523 L 80 211.31836 L 421.87305 119.71289 C 420.48971 117.88655 418.97642 116.12681 417.30859 114.45898 L 400.37109 97.521484 z M 431.75 145.01953 L 80 239.27148 L 80 267.22461 L 432 172.90625 L 432 150.85938 C 432 150.68572 431.98808 150.51502 431.98633 150.3418 C 431.98638 150.33724 431.98628 150.33268 431.98633 150.32812 C 432.00453 148.55672 431.91963 146.78455 431.75 145.01953 z M 432 200.85938 L 80 295.17773 L 80 462.85938 C 80 490.55931 102.3 512.85936 130 512.85938 L 382 512.85938 C 409.7 512.85937 432 490.55931 432 462.85938 L 432 200.85938 z "
        transform="scale(0.26458333)" />
     <g
        id="text921"
@@ -95,18 +95,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.4611px;line-height:0.7;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
-       x="67.60862"
-       y="96.260544"
+       x="67.616905"
+       y="96.062103"
        id="text929"><tspan
          sodipodi:role="line"
-         x="67.60862"
-         y="96.260544"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5806px;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="67.616905"
+         y="96.062103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.5806px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan889">work in </tspan><tspan
          sodipodi:role="line"
-         x="67.60862"
-         y="110.58331"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5806px;font-family:Raleway;-inkscape-font-specification:'Raleway, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="67.616905"
+         y="111.17969"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.5806px;font-family:Nunito;-inkscape-font-specification:'Nunito, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan895">progress</tspan></text>
   </g>
 </svg>
