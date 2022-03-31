@@ -14,7 +14,7 @@ b5 {
 }
 
 a:link {
-  color: #0040ff;
+  color: #00c000;
   text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ a:link {
 } */
 
 a:visited {
-  color: #1a54ff;
+  color: #006000;
   text-decoration: none;
 }
 /* .light a:visited {
