@@ -14,7 +14,7 @@ b5 {
 }
 
 a:link {
-  color: #00c000;
+  color: #30c000;
   text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ a:link {
 } */
 
 a:visited {
-  color: #006000;
+  color: #30c000;
   text-decoration: none;
 }
 /* .light a:visited {
@@ -31,7 +31,7 @@ a:visited {
 } */
 
 a:hover {
-  color: #009c00;
+  color: #249000;
   text-decoration: underline;
 }
 /* .light a:hover {
@@ -39,7 +39,7 @@ a:hover {
 } */
 
 a:active {
-  color: #686868;
+  color: #909090;
   text-decoration: underline;
 }
 /* .light a:active {
@@ -71,7 +71,7 @@ body {
 } */
 
 notl {
-  color: #ff0000;
+  color: #ff0040;
   text-decoration: none;
 }
 /* .light notl {
@@ -79,7 +79,7 @@ notl {
 } */
 
 notl:hover {
-  color: #d00000;
+  color: #d00038;
   text-decoration: underline;
   cursor: pointer;
 }
